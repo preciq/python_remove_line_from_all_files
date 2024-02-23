@@ -14,7 +14,7 @@ def remove_line_from_files(directory, pattern, text):
 
 # Example usage
 directory = 'p_s'
-pattern = 'pain.txt'  # Example: '*.txt'
-text = 'desired_text_here'
+pattern = '*_gen_q.txt'  # Example: '*.txt'
+text = 'Correct Answer:'
 
 remove_line_from_files(directory, pattern, text)

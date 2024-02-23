@@ -2,7 +2,7 @@
 **/.DS_Store
 
 # Ignore all subdirectories within the p_s directory
-p_s/*
+p_s/*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
